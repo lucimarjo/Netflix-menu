@@ -25,4 +25,4 @@ O projeto foi construído utilizando:
 />
 
 ---
-Desenvolvido com 💻 por [Lucas Lima]
+Desenvolvido por [Lucas Lima] com foco em estudos e prática constante. 🚀
