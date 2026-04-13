@@ -1,4 +1,3 @@
-<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/b1310948-277c-4808-90ae-375ca2270fac" /># Netflix-menu
 Landing page da Netflix criada para estudo de HTML e CSS (Flexbox).
 
 #  Netflix Landing Page Clone
